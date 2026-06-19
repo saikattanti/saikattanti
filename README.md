@@ -9,7 +9,7 @@
 <br><br>
 
 <a href="https://www.saikattanti.dev">
-<img src="https://img.shields.io/badge/Portfolio-saikattanti.xyz-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-saikattanti.dev-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="mailto:saikattanti2005@gmail.com">
